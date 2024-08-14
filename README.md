@@ -1,7 +1,7 @@
 # 🏌🏽‍♂️Obibe | littlegiantt 
 # Hey/שלום ✌️
 
-<img align="right" width="300" src="https://tenor.com/ru/view/programming-gif-24916992" />
+<img align="right" width="300" src="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u" />
 
 ```go
 func main() {
