@@ -3,7 +3,7 @@
 
 ## Something about me
 
-<img align="right" width="300" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
+<img align="right" width="300" height="200" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
 
 ```go
 func main() {
