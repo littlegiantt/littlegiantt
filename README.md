@@ -1,4 +1,4 @@
-# 🏌🏽‍♂️Obibe/littlegiantt 
+# 🏌🏽‍♂️Obibe | littlegiantt 
 # Hey/שלום ✌️
 
 **`Computers lover/Software engineer/Linux enjoyer`**
