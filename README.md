@@ -1,6 +1,19 @@
 # 🏌🏽‍♂️Obibe | littlegiantt 
 # Hey/שלום ✌️
 
+<img align="right" width="300" src="https://tenor.com/ru/view/programming-gif-24916992" />
+
+```go
+func main() {
+var name string = "Egor"
+var whoiam string = "Software Engineer"
+
+var location string = "Moscow, Russia"
+var career string = "Looking for work"
+}
+
+```
+
 **`Computers lover/Software engineer/Linux enjoyer`**
 
 I'm a backend developer. Previously I was android app developer. Almost all coding projects are created from scratch, from planning and design to solving real-world coding problems.
