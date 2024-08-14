@@ -1,7 +1,7 @@
 # 🏌🏽‍♂️Obibe | littlegiantt 
 # Hey/שלום ✌️
 
-##Something about me
+## Something about me
 
 <img align="right" width="300" src="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u" />
 
