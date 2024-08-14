@@ -1,5 +1,5 @@
-##🏌🏽‍♂️Obibe 
-# Hey/שלום ✌️
+#🏌🏽‍♂️Obibe 
+Hey/שלום ✌️
 
 **`Computers lover/Software engineer/Linux enjoyer`**
 
