@@ -3,7 +3,7 @@
 
 ## Something about me
 
-<img align="right" width="400" height="290" src="https://fukushu.tumblr.com/image/190438534241" />
+<img align="right" width="400" height="290" src="https://media1.tenor.com/m/fkPxqJwOVhoAAAAC/qforce-stat.gif" />
 
 ```go
 func main() {
