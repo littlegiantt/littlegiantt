@@ -3,7 +3,7 @@
 
 ## Something about me
 
-<img align="right" width="400" height="290" src="https://tenor.com/ru/view/f22-mobius-ace-combat-formation-gif-25639770" />
+<img align="right" width="400" height="290" src="https://media1.tenor.com/m/iSOANTCPvHYAAAAC/aestheic-black.gif" />
 
 ```go
 func main() {
