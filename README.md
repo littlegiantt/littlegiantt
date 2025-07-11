@@ -3,7 +3,7 @@
 
 ## Something about me
 
-<img align="right" width="400" height="290" src="https://media1.tenor.com/m/VlDciAr3HQkAAAAC/grrr-bambi.gif" />
+<img align="right" width="400" height="290" src="https://media1.tenor.com/m/z-tgsllRHvgAAAAd/dota-hero.gif" />
 
 ```go
 func main() {
